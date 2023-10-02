@@ -1,5 +1,5 @@
 # domProject1
-https://github.com/pranshulpradhan/domProject1.git
+https://pranshulpradhan.github.io/domProject1/
 
 # Usage
 To use this HTML template, follow these steps:
